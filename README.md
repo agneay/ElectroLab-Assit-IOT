@@ -7,6 +7,10 @@ My default template Repository for creating other repositories
 ![stars](https://img.shields.io/github/stars/agneay/DEFAULT_TEMPLATE?style=for-the-badge)
 ![issues](https://img.shields.io/github/issues/agneay/DEFAULT_TEMPLATE?style=for-the-badge)
 
+Design
+---
+Check out our Figma design file with this link: [Figma Design File](https://www.figma.com/design/ajR2y96UUisM91rRy1jt4o/ElectroLab-Assist-IOT?node-id=0-1&t=HzwmSLI1PXXZYZzh-1)
+
 Our Contributors
 ---
 <a href="https://github.com/agneay/ElectroLab-Assit-IOT/graphs/contributors">
