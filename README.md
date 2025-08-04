@@ -1,5 +1,5 @@
 # Electro Lab Assist  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-My default template Repository for creating other repositories
+A fun side project explored by me and my friends to increase the automation in our Digital Electronics Lab
 
 ![maintained](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
 ![forks](https://img.shields.io/github/forks/agneay/ElectroLab-Assit-IOT?style=for-the-badge)
